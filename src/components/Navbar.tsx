@@ -85,8 +85,7 @@ export const Navbar = () => {
                       href="https://wa.me/905417474297/?text=Merhaba%20bilgi%20almak%20istiyorum%20süreç%20hakkında%20yardımcı%20olur%20musunuz?"
                       className="w-full px-6 py-2 mt-3 text-center text-white bg-indigo-600 rounded-md lg:ml-5"
                       target="_blank"
-
-                   >
+                    >
                       İletişime Geç
                     </Link>
                   </>

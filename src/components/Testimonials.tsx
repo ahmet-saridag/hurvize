@@ -15,7 +15,12 @@ const people: any = [
     imageUrl: korkmaz,
   },
   {
-    name: "Safiye Yüksek-Biçer",
+    name: "Safiye Çelik",
+    role: "Deneyimli Avukat",
+    imageUrl: safiye,
+  },
+  {
+    name: "Ahu Çelik",
     role: "Deneyimli Avukat",
     imageUrl: safiye,
   },

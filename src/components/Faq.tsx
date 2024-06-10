@@ -41,12 +41,13 @@ export const Faq = () => {
 const faqdata = [
   {
     question: "Polonya çalışma ücreti fiyatı nedir?",
-    answer: "Tek ücrettir 5000€",
+    answer:
+      "Fiyat için iletişime geçip bilgi alabilirsiniz kişiden kişiye göre değişmektedir.",
   },
   {
     question: "Almanya çalışma ücreti fiyatı nedir?",
     answer:
-      "Alana göre değişkenlik göstermektedir ortalama 3,5 - 6 bin euro arası",
+      "Fiyat için iletişime geçip bilgi alabilirsiniz kişiden kişiye göre değişmektedir.",
   },
   {
     question: "Çalışma vizesi alma sürecim ne kadar sürer?",
